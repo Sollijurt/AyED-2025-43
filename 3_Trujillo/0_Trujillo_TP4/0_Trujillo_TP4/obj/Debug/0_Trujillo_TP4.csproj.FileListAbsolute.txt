@@ -1,5 +1,0 @@
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP4\0_Trujillo_TP4\bin\Debug\0_Trujillo_TP4.exe.config
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP4\0_Trujillo_TP4\bin\Debug\0_Trujillo_TP4.exe
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP4\0_Trujillo_TP4\bin\Debug\0_Trujillo_TP4.pdb
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP4\0_Trujillo_TP4\obj\Debug\0_Trujillo_TP4.exe
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP4\0_Trujillo_TP4\obj\Debug\0_Trujillo_TP4.pdb
