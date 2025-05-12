@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP2\0_Trujillo_TP2\bin\Debug\0_Trujillo_TP2.exe.config
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP2\0_Trujillo_TP2\bin\Debug\0_Trujillo_TP2.exe
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP2\0_Trujillo_TP2\bin\Debug\0_Trujillo_TP2.pdb
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP2\0_Trujillo_TP2\obj\Debug\0_Trujillo_TP2.exe
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP2\0_Trujillo_TP2\obj\Debug\0_Trujillo_TP2.pdb
