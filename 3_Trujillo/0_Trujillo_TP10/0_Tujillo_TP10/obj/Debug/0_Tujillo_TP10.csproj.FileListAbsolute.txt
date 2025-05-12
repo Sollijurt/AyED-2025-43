@@ -1,9 +1,0 @@
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Tujillo_TP10\0_Tujillo_TP10\bin\Debug\0_Tujillo_TP10.exe.config
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Tujillo_TP10\0_Tujillo_TP10\bin\Debug\0_Tujillo_TP10.exe
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Tujillo_TP10\0_Tujillo_TP10\bin\Debug\0_Tujillo_TP10.pdb
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Tujillo_TP10\0_Tujillo_TP10\obj\Debug\0_Tujillo_TP10.csprojResolveAssemblyReference.cache
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Tujillo_TP10\0_Tujillo_TP10\obj\Debug\0_Tujillo_TP10.exe
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Tujillo_TP10\0_Tujillo_TP10\obj\Debug\0_Tujillo_TP10.pdb
-C:\Users\Alumno\Desktop\AyED-2025\Etapa0\0_Trujillo_TP10\0_Tujillo_TP10\bin\Debug\0_Tujillo_TP10.exe.config
-C:\Users\Alumno\Desktop\AyED-2025\Etapa0\0_Trujillo_TP10\0_Tujillo_TP10\obj\Debug\0_Tujillo_TP10.exe
-C:\Users\Alumno\Desktop\AyED-2025\Etapa0\0_Trujillo_TP10\0_Tujillo_TP10\obj\Debug\0_Tujillo_TP10.pdb
