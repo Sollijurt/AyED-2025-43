@@ -1,5 +1,0 @@
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP5\1_Trujillo_TP5\bin\Debug\1_Trujillo_TP5.exe.config
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP5\1_Trujillo_TP5\bin\Debug\1_Trujillo_TP5.exe
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP5\1_Trujillo_TP5\bin\Debug\1_Trujillo_TP5.pdb
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP5\1_Trujillo_TP5\obj\Debug\1_Trujillo_TP5.exe
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP5\1_Trujillo_TP5\obj\Debug\1_Trujillo_TP5.pdb
