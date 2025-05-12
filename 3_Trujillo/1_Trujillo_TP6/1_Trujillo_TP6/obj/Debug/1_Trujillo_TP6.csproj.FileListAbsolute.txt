@@ -1,5 +1,0 @@
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP6\1_Trujillo_TP6\bin\Debug\1_Trujillo_TP6.exe.config
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP6\1_Trujillo_TP6\bin\Debug\1_Trujillo_TP6.exe
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP6\1_Trujillo_TP6\bin\Debug\1_Trujillo_TP6.pdb
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP6\1_Trujillo_TP6\obj\Debug\1_Trujillo_TP6.exe
-C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Trujillo_TP6\1_Trujillo_TP6\obj\Debug\1_Trujillo_TP6.pdb
