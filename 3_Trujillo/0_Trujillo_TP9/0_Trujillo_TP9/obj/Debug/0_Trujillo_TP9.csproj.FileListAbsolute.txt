@@ -1,5 +1,0 @@
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP9\0_Trujillo_TP9\bin\Debug\0_Trujillo_TP9.exe.config
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP9\0_Trujillo_TP9\bin\Debug\0_Trujillo_TP9.exe
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP9\0_Trujillo_TP9\bin\Debug\0_Trujillo_TP9.pdb
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP9\0_Trujillo_TP9\obj\Debug\0_Trujillo_TP9.exe
-C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP9\0_Trujillo_TP9\obj\Debug\0_Trujillo_TP9.pdb
