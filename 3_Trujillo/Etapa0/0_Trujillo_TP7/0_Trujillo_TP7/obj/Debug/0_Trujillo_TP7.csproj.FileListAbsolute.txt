@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP7\0_Trujillo_TP7\bin\Debug\0_Trujillo_TP7.exe.config
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP7\0_Trujillo_TP7\bin\Debug\0_Trujillo_TP7.exe
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP7\0_Trujillo_TP7\bin\Debug\0_Trujillo_TP7.pdb
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP7\0_Trujillo_TP7\obj\Debug\0_Trujillo_TP7.exe
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP7\0_Trujillo_TP7\obj\Debug\0_Trujillo_TP7.pdb
+C:\Users\Alumno\Desktop\AyED-20225\Etapa0\0_Trujillo_TP7\0_Trujillo_TP7\obj\Debug\0_Trujillo_TP7.csprojResolveAssemblyReference.cache
