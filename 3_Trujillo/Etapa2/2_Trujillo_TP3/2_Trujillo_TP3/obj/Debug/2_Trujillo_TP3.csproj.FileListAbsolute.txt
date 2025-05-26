@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\2_Trujillo_TP3\2_Trujillo_TP3\bin\Debug\2_Trujillo_TP3.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\2_Trujillo_TP3\2_Trujillo_TP3\bin\Debug\2_Trujillo_TP3.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\2_Trujillo_TP3\2_Trujillo_TP3\bin\Debug\2_Trujillo_TP3.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\2_Trujillo_TP3\2_Trujillo_TP3\obj\Debug\2_Trujillo_TP3.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\2_Trujillo_TP3\2_Trujillo_TP3\obj\Debug\2_Trujillo_TP3.pdb

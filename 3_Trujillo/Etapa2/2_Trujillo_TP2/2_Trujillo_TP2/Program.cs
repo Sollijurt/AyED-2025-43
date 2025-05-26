@@ -10,26 +10,61 @@ namespace _2_Trujillo_TP2
     {
         static void Main()
         {
-            int numtp = 0, numex = 0;
-            int promex = 0, prometp = 0;
+            int numtp = 0;
+            int numex = 0;
+            int promex = 0;
+            double porcitp = 0;
+            int promedio = 0, notaproba = 0;
+            bool aprotp = false, aproex = false;
+
             Console.WriteLine("Ingrese la cantidad de tps");
             numtp = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la cantidad de examenes");
-            numex = int.Parse(Console.ReadLine());
             int[] notatp = new int[numtp];
-            int[] notaex = new int[numex];
+            porcitp = numtp;
+            Console.WriteLine("Ingrese las notas de cada tp");
             for (int i = 0; i < numtp; i++)
             {
-                Console.WriteLine("Ingrese las notas de cada tp");
                 notatp[i] = int.Parse(Console.ReadLine());
-                Console.WriteLine("");
-                Console.WriteLine("Ingrese las notas de cada examen");
-                notaex[i] = int.Parse(Console.ReadLine());
+                
 
-                promex = promex + notaex[i];
-                prometp = prometp + notatp[i];
+                if (notatp[i] >= 6)
+                {
+                    notaproba++;
+                }
+            }
+            porcitp = porcitp * 0.75;
+            if (porcitp <= notaproba)
+            {
+                aprotp = true;
             }
 
+
+            Console.WriteLine("Ingrese la cantidad de examenes");
+            numex = int.Parse(Console.ReadLine());
+            int[] notaex = new int[numex];
+            Console.WriteLine("Ingrese las notas de cada examen");
+            
+            for (int o = 0; o < numex; o++)
+            {
+                notaex[o] = int.Parse(Console.ReadLine());
+                promex = notaex[o] + promex;
+            }
+            promedio = promex / numex;
+            if (promedio >= 6)
+            {
+                aproex = true;
+            }
+
+            if (aproex == true && aprotp == true)
+            {
+                Console.WriteLine("Aprobo el año");
+            }
+            else
+            {
+                Console.WriteLine("Desaprobo el año");
+            }
+            Console.ReadKey();
+            
         }
     }
 }
