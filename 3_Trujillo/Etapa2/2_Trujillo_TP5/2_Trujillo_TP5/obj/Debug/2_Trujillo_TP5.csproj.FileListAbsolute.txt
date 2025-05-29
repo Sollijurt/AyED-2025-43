@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\2_Trujillo_TP5\2_Trujillo_TP5\bin\Debug\2_Trujillo_TP5.exe.config
+C:\Users\alumno\Desktop\2_Trujillo_TP5\2_Trujillo_TP5\bin\Debug\2_Trujillo_TP5.exe
+C:\Users\alumno\Desktop\2_Trujillo_TP5\2_Trujillo_TP5\bin\Debug\2_Trujillo_TP5.pdb
+C:\Users\alumno\Desktop\2_Trujillo_TP5\2_Trujillo_TP5\obj\Debug\2_Trujillo_TP5.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2_Trujillo_TP5\2_Trujillo_TP5\obj\Debug\2_Trujillo_TP5.exe
+C:\Users\alumno\Desktop\2_Trujillo_TP5\2_Trujillo_TP5\obj\Debug\2_Trujillo_TP5.pdb

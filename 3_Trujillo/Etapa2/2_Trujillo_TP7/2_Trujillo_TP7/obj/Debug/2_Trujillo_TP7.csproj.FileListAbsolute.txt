@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\2_Trujillo_TP7\2_Trujillo_TP7\bin\Debug\2_Trujillo_TP7.exe.config
+C:\Users\alumno\Desktop\2_Trujillo_TP7\2_Trujillo_TP7\obj\Debug\2_Trujillo_TP7.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\2_Trujillo_TP7\2_Trujillo_TP7\bin\Debug\2_Trujillo_TP7.exe
+C:\Users\alumno\Desktop\2_Trujillo_TP7\2_Trujillo_TP7\bin\Debug\2_Trujillo_TP7.pdb
+C:\Users\alumno\Desktop\2_Trujillo_TP7\2_Trujillo_TP7\obj\Debug\2_Trujillo_TP7.exe
+C:\Users\alumno\Desktop\2_Trujillo_TP7\2_Trujillo_TP7\obj\Debug\2_Trujillo_TP7.pdb

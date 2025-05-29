@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\2_Trujillo_TP6\2_Trujillo_TP6\bin\Debug\2_Trujillo_TP6.exe.config
+C:\Users\alumno\Desktop\2_Trujillo_TP6\2_Trujillo_TP6\bin\Debug\2_Trujillo_TP6.exe
+C:\Users\alumno\Desktop\2_Trujillo_TP6\2_Trujillo_TP6\bin\Debug\2_Trujillo_TP6.pdb
+C:\Users\alumno\Desktop\2_Trujillo_TP6\2_Trujillo_TP6\obj\Debug\2_Trujillo_TP6.exe
+C:\Users\alumno\Desktop\2_Trujillo_TP6\2_Trujillo_TP6\obj\Debug\2_Trujillo_TP6.pdb
