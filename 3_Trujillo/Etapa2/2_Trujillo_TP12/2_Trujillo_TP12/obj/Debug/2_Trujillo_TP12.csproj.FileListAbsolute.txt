@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Trujillo_TP12\2_Trujillo_TP12\bin\Debug\2_Trujillo_TP12.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Trujillo_TP12\2_Trujillo_TP12\obj\Debug\2_Trujillo_TP12.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Trujillo_TP12\2_Trujillo_TP12\bin\Debug\2_Trujillo_TP12.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Trujillo_TP12\2_Trujillo_TP12\bin\Debug\2_Trujillo_TP12.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Trujillo_TP12\2_Trujillo_TP12\obj\Debug\2_Trujillo_TP12.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Trujillo_TP12\2_Trujillo_TP12\obj\Debug\2_Trujillo_TP12.pdb
