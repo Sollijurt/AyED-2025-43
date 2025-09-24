@@ -1,0 +1,14 @@
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\bin\Debug\net8.0\3_Trujillo_TP2.exe
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\bin\Debug\net8.0\3_Trujillo_TP2.deps.json
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\bin\Debug\net8.0\3_Trujillo_TP2.runtimeconfig.json
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\bin\Debug\net8.0\3_Trujillo_TP2.dll
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\bin\Debug\net8.0\3_Trujillo_TP2.pdb
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.AssemblyInfoInputs.cache
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.AssemblyInfo.cs
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.dll
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\refint\3_Trujillo_TP2.dll
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.pdb
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\3_Trujillo_TP2.genruntimeconfig.cache
+C:\Users\Santy\Desktop\Trabajos escolares\3_Trujillo_TP2\3_Trujillo_TP2\obj\Debug\net8.0\ref\3_Trujillo_TP2.dll
