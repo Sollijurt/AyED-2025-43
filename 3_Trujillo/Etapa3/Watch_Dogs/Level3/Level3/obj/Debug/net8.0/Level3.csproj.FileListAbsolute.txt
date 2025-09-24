@@ -1,0 +1,14 @@
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\bin\Debug\net8.0\Level3.exe
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\bin\Debug\net8.0\Level3.deps.json
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\bin\Debug\net8.0\Level3.runtimeconfig.json
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\bin\Debug\net8.0\Level3.dll
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\bin\Debug\net8.0\Level3.pdb
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.AssemblyInfoInputs.cache
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.AssemblyInfo.cs
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.dll
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\refint\Level3.dll
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.pdb
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\Level3.genruntimeconfig.cache
+C:\Users\Santy\Desktop\Trabajos escolares\Watch_Dogs\Level3\Level3\obj\Debug\net8.0\ref\Level3.dll
